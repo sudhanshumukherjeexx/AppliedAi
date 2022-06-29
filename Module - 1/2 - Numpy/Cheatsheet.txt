@@ -1,0 +1,11 @@
+numpy.info(numpy.x) - Provides information about numpy function (x). 
+
+numpy.loadtxt() - Used to load text file data
+numpy.genfromtxt() - Used to load data from a text file, with missing values handled as defined
+
+numpy.round_(arr, num of decimals) - Round up the element to the desired decimal places
+
+numpy.set_printoptions() - Modifies the print options for us for example removing scientific values, printing only till the desired decimal places and much more.
+
+numpy.ndarray.tolist() - Return a copy of the array data as a nested python list.
+
